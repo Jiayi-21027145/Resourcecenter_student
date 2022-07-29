@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class ResourceCentre {
 	
-	//this is d workflow
+	//this is the workflow
 
 	public static void main(String[] args) {
 
